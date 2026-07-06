@@ -35,7 +35,7 @@ This repository contains all tasks completed during the Cognifyz Data Analysis I
 Zomato Restaurant Dataset
 
 ## Author
-Ahmed Raza
+Deputy Ahmed Raza
 
 GitHub:
 https://github.com/ahmedraza3306
